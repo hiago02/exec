@@ -1,0 +1,45 @@
+body{
+	font-family: arial, helvetica, sans-serif;
+	font-size: 15px;
+}
+
+.titulo{
+	font-size: 43px;
+	text-align: center;
+	color: #696969;
+	padding: 5px;
+}
+
+h2{
+	text-align: center;
+	color: #696969;
+	padding: 5px;
+}
+
+.menu{
+	text-align: center;
+	margin: 5px;
+	margin-bottom: 15px;
+	position: relative;
+}
+
+.menu li{
+	display: inline-block;
+	padding-right: 8px;
+}
+
+.menu li a{
+	font-size: 18px;
+	text-decoration: none;
+	color: #696969;
+	padding: 3px;
+}
+
+.cabecalho{
+	border-bottom: 4px solid #000;
+	background-color: #F5F5F5;
+}
+
+
+
+
